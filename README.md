@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png" alt="Logo" width="780" height="409">
+  </a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 align="center">React_Complete_Guide</h3>
+
+  <p align="center">Getting Started with Create React App (under construction...)</p>
+</div>
 
 ## Available Scripts
 
